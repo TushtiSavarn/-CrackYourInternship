@@ -46,7 +46,7 @@ If you'd like to contribute or share your solutions, feel free to open a pull re
 
 ## Connect
 
-Let's connect and share our experiences! You can find me on [LinkedIn](https://www.linkedin.com/in/tushti-savarn/) or follow me on [GitHub](https://github.com/tushti-savarn).
+Let's connect and share our experiences! You can find me on [LinkedIn](https://www.linkedin.com/in/tushti-savarn/) or follow me on [GitHub](https://github.com/TushtiSavarn).
 
 ## Acknowledgements
 
