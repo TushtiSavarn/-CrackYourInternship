@@ -1,7 +1,5 @@
 # Guaranteed Internship and Placement Challenge
 
-Welcome to my repository for the **Guaranteed Internship and Placement Challenge**! This challenge, created by Arsh Goyal, is a 45-day journey to prepare for Data Structures and Algorithms (DSA) interviews and online assessments. It's a fantastic opportunity to refine problem-solving skills and get closer to securing internships and placements.
-
 ## Challenge Overview
 
 The challenge focuses on:
